@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Test</title><link href="http://expresso0630.github.io/" rel="alternate"></link><link href="http://expresso0630.github.io/feeds/misc.atom.xml" rel="self"></link><id>http://expresso0630.github.io/</id><updated>2015-07-18T00:00:00+09:00</updated><entry><title>2015-07-18</title><link href="http://expresso0630.github.io/2015-07-18.html" rel="alternate"></link><updated>2015-07-18T00:00:00+09:00</updated><author><name>croissant</name></author><id>tag:expresso0630.github.io,2015-07-18:2015-07-18.html</id><summary type="html">&lt;h1&gt;test&lt;/h1&gt;
+&lt;p&gt;123&lt;/p&gt;
+&lt;p&gt;456&lt;/p&gt;</summary></entry></feed>
